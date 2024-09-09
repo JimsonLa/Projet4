@@ -100,16 +100,15 @@ body {
 .gallery .nav {
 	justify-content: center;
 }
-.nav-pills .nav-link.active-tab, .nav-pills .show > .nav-link {
+.nav-pills .nav-link.active-tag, .nav-pills .show > .nav-link {
 	color: #fff;
 	background-color: #BEB45A;
 	border-radius:0 ;
 }
 
-.nav-link.active-tab:hover{
+.nav-link.active-tag:hover{
 	cursor: pointer;
 }
-
 
 .nav-pills .nav-link {
 	color: #000

@@ -1,0 +1,8 @@
+- Intégrer des mots clés dans le site, dans les balises et dans le titre.
+- L'URL doit être court.
+- Utiliser des balises d'en-tête H1, H2... afin de structurer le contenu du site.
+- Optimiser les images avec des balises ALT et compresser les images, convertir au format WEBP.
+- Assurer que le site soit responsive.
+- Utiliser le HTTPS et non l'HTTP.
+- Faire des audits SEO afin d'identifier les problèmes techniques.
+- Essayer plusieurs versions du site afin de voir laquelle fonctionne le mieux.
