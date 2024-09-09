@@ -110,6 +110,10 @@ body {
 	cursor: pointer;
 }
 
+.nav-link:hover{
+	cursor: pointer;
+}
+
 .nav-pills .nav-link {
 	color: #000
 }
